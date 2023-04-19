@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1681738241983" clover="3.2.0">
-  <project timestamp="1681738241984" name="All files">
-    <metrics statements="34" coveredstatements="34" conditionals="10" coveredconditionals="10" methods="3" coveredmethods="3" elements="47" coveredelements="47" complexity="0" loc="34" ncloc="34" packages="4" files="4" classes="4"/>
+<coverage generated="1681875982960" clover="3.2.0">
+  <project timestamp="1681875982960" name="All files">
+    <metrics statements="36" coveredstatements="36" conditionals="10" coveredconditionals="10" methods="3" coveredmethods="3" elements="49" coveredelements="49" complexity="0" loc="36" ncloc="36" packages="4" files="4" classes="4"/>
     <package name="Async">
-      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="async.js" path="/home/ahmad/Documents/Unit Test/src/Async/async.js">
-        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="1" count="1" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
         <line num="4" count="2" type="stmt"/>
-        <line num="7" count="1" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
         <line num="10" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
       </file>
     </package>
     <package name="getDay">

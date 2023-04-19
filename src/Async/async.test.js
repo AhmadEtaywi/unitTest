@@ -16,7 +16,7 @@ describe("fetch& error ", () => {
   });
 
   it("fetchData should handle error from API", async () => {
-    const mockError = new Error("Failed to fetch data");
+    const mockError = new Error("Failed to fetch data!");
     axios.get = jest.fn().mockRejectedValue(mockError);
 
     await expect(axiosFetch.fetchData()).rejects.toEqual(mockError);
